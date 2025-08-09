@@ -53,6 +53,7 @@ gcc main.c -o nlp
 ```bash
 ./nlp
 ```
-
+## 📜 License
+This project is released under the MIT License — feel free to use, modify, and share.
 
 
