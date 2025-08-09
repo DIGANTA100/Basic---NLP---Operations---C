@@ -58,6 +58,6 @@ This project is released under the MIT License — feel free to use, modify, and
 ---
 
 ## 👨‍💻 Author
-[Ajmain Fayek Diganta]
+[Ajmain Fayek Diganta] <br>
 Student Project — Basic NLP in C
 ---
