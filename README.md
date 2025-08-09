@@ -36,6 +36,23 @@ All string operations use standard C library functions (`<string.h>`, `<ctype.h>
 basic-nlp-operations-c/  <br>
 │  <br>
 ├── main.c # Main program file  <br>
-├── stopwords.txt # List of stop words (optional)  <br>
+├── stopwords.txt # List of stop words   <br>
 ├── README.md # Project documentation  <br>
 └── sample_input.txt # Example documents
+
+
+---
+
+## 🛠️ How to Compile & Run
+
+### **1️⃣ Compile**
+```bash
+gcc main.c -o nlp
+```
+### 2️⃣ Run
+```bash
+./nlp
+```
+
+
+
