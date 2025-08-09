@@ -33,9 +33,9 @@ All string operations use standard C library functions (`<string.h>`, `<ctype.h>
 
 ## 📂 File Structure
 <br>
-basic-nlp-operations-c/ <br>
+basic-nlp-operations-c/  <br>
 │  <br>
 ├── main.c # Main program file  <br>
-├── stopwords.txt # List of stop words (optional)   <br>
+├── stopwords.txt # List of stop words (optional)  <br>
 ├── README.md # Project documentation  <br>
-└── sample_input.txt # Example documents   <br>
+└── sample_input.txt # Example documents
