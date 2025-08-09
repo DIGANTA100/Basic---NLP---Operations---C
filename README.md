@@ -55,9 +55,9 @@ gcc main.c -o nlp
 ```
 ## 📜 License
 This project is released under the MIT License — feel free to use, modify, and share.
-
+---
 
 ##👨‍💻 Author
 [Ajmain Fayek Diganta]
 Student Project — Basic NLP in C
-
+---
